@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+.scroll {
+  background: url(../images/arrow52.png) center center no-repeat;
+}
+
+.header #btnRefresh {
+  background: url(../images/refresh.svg) center center no-repeat;
+}
+
+.header #btnInstall {
+  background: url(../images/install.svg) center center no-repeat;
+}
+
+.header #btnLogin {
+  background: url(../images/login.svg) center center no-repeat;
+}
+
+.header #btnMenu {
+  background: url(../images/menu.svg) center center no-repeat;
+  margin-left: 12px;
+}
