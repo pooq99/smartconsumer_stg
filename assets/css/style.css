@@ -20,3 +20,8 @@
   background: url(../images/menu.svg) center center no-repeat;
   margin-left: 12px;
 }
+
+.header #btnProfile {
+  background: url(../images/mypage.svg) center center no-repeat;
+  margin-left: 12px;
+}
