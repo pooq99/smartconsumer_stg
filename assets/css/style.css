@@ -25,3 +25,7 @@
   background: url(../images/mypage.svg) center center no-repeat;
   margin-left: 12px;
 }
+
+#btnShare {
+  background: url(../images/share.svg) center center no-repeat;
+}
