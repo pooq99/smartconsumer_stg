@@ -4,24 +4,24 @@
   background: url(../images/arrow52.png) center center no-repeat;
 }
 
-.header #btnRefresh {
+.sc_header #btnRefresh {
   background: url(../images/refresh.svg) center center no-repeat;
 }
 
-.header #btnInstall {
+.sc_header #btnInstall {
   background: url(../images/install.svg) center center no-repeat;
 }
 
-.header #btnLogin {
+.sc_header #btnLogin {
   background: url(../images/login.svg) center center no-repeat;
 }
 
-.header #btnMenu {
+.sc_header #btnMenu {
   background: url(../images/menu.svg) center center no-repeat;
   margin-left: 12px;
 }
 
-.header #btnProfile {
+.sc_header #btnProfile {
   background: url(../images/mypage.svg) center center no-repeat;
   margin-left: 12px;
 }
