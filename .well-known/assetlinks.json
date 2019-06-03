@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "kr.smartconsumer.best",
+    "sha256_cert_fingerprints": ["43:08:2C:A0:57:DF:DE:F1:77:59:7F:61:E6:D8:0B:24:CB:FF:28:8E:E2:89:81:CB:2A:45:7F:56:7C:5B:94:7A"] }
+}]
