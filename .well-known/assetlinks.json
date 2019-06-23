@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "kr.smartconsumer.best",
-    "sha256_cert_fingerprints": ["34:01:49:89:B5:9D:BB:D7:39:2E:5F:59:0B:2E:8A:3E:98:1D:A1:91:1D:5F:B9:4F:36:BF:58:CE:FE:18:B3:97"] }
+    "sha256_cert_fingerprints": ["34:01:49:89:B5:9D:BB:D7:39:2E:5F:59:0B:2E:8A:3E:98:1D:A1:91:1D:5F:B9:4F:36:BF:58:CE:FE:18:B3:97", "53:FE:02:0B:7A:EE:9C:A1:28:65:02:97:9C:5B:84:0D:50:E5:E8:E1:3E:68:BF:C0:98:2D:93:92:72:50:D0:0B"] }
 }]
