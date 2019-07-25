@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "https://stg.smartconsumer.kr/static/css/main.ef304509.chunk.css",
-    "main.js": "https://stg.smartconsumer.kr/static/js/main.702e64eb.chunk.js",
-    "main.js.map": "https://stg.smartconsumer.kr/static/js/main.702e64eb.chunk.js.map",
-    "runtime~main.js": "https://stg.smartconsumer.kr/static/js/runtime~main.3526fdae.js",
-    "runtime~main.js.map": "https://stg.smartconsumer.kr/static/js/runtime~main.3526fdae.js.map",
-    "static/css/2.3c1ddb0a.chunk.css": "https://stg.smartconsumer.kr/static/css/2.3c1ddb0a.chunk.css",
-    "static/js/2.1205d0f0.chunk.js": "https://stg.smartconsumer.kr/static/js/2.1205d0f0.chunk.js",
-    "static/js/2.1205d0f0.chunk.js.map": "https://stg.smartconsumer.kr/static/js/2.1205d0f0.chunk.js.map",
-    "index.html": "https://stg.smartconsumer.kr/index.html",
-    "precache-manifest.b757e9314b85dcad64e469e66eb34566.js": "https://stg.smartconsumer.kr/precache-manifest.b757e9314b85dcad64e469e66eb34566.js",
-    "service-worker.js": "https://stg.smartconsumer.kr/service-worker.js",
-    "static/css/2.3c1ddb0a.chunk.css.map": "https://stg.smartconsumer.kr/static/css/2.3c1ddb0a.chunk.css.map",
-    "static/css/main.ef304509.chunk.css.map": "https://stg.smartconsumer.kr/static/css/main.ef304509.chunk.css.map"
+    "main.css": "/static/css/main.34de6062.chunk.css",
+    "main.js": "/static/js/main.3d917102.chunk.js",
+    "main.js.map": "/static/js/main.3d917102.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.d206361d.chunk.js": "/static/js/2.d206361d.chunk.js",
+    "static/js/2.d206361d.chunk.js.map": "/static/js/2.d206361d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.931a2496aacf58be6d7548e2ce22dc04.js": "/precache-manifest.931a2496aacf58be6d7548e2ce22dc04.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/static/css/main.34de6062.chunk.css.map"
   }
 }
