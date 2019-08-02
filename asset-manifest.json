@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://stg.smartconsumer.kr/static/css/main.9e526bb0.chunk.css",
+    "main.js": "https://stg.smartconsumer.kr/static/js/main.a0dfd1e9.chunk.js",
+    "main.js.map": "https://stg.smartconsumer.kr/static/js/main.a0dfd1e9.chunk.js.map",
+    "runtime~main.js": "https://stg.smartconsumer.kr/static/js/runtime~main.75877a31.js",
+    "runtime~main.js.map": "https://stg.smartconsumer.kr/static/js/runtime~main.75877a31.js.map",
+    "static/js/2.92fcaceb.chunk.js": "https://stg.smartconsumer.kr/static/js/2.92fcaceb.chunk.js",
+    "static/js/2.92fcaceb.chunk.js.map": "https://stg.smartconsumer.kr/static/js/2.92fcaceb.chunk.js.map",
+    "index.html": "https://stg.smartconsumer.kr/index.html",
+    "precache-manifest.489a4c8f2d39866345036bf3267f0507.js": "https://stg.smartconsumer.kr/precache-manifest.489a4c8f2d39866345036bf3267f0507.js",
+    "service-worker.js": "https://stg.smartconsumer.kr/service-worker.js",
+    "static/css/main.9e526bb0.chunk.css.map": "https://stg.smartconsumer.kr/static/css/main.9e526bb0.chunk.css.map"
+  }
+}
