@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a42ad49af566c8b8b1f3344affe3f97f",
+    "revision": "db931fe41116b0a4af116c2bc328538f",
     "url": "https://stg.smartconsumer.kr/index.html"
   },
   {
-    "revision": "5666064e6ef406e8ab20",
+    "revision": "1c5e13674ccded4c89fc",
     "url": "https://stg.smartconsumer.kr/static/css/main.9e526bb0.chunk.css"
   },
   {
-    "revision": "5f6cf12aec735fc6750b",
-    "url": "https://stg.smartconsumer.kr/static/js/2.e9187b5c.chunk.js"
+    "revision": "9d484fad3cd176123caf",
+    "url": "https://stg.smartconsumer.kr/static/js/2.7f4272c2.chunk.js"
   },
   {
-    "revision": "5666064e6ef406e8ab20",
-    "url": "https://stg.smartconsumer.kr/static/js/main.a847d0af.chunk.js"
+    "revision": "1c5e13674ccded4c89fc",
+    "url": "https://stg.smartconsumer.kr/static/js/main.d7773669.chunk.js"
   },
   {
     "revision": "49c63daf01db552efb51",
