@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://stg.smartconsumer.kr/</loc> </url>
-<url> <loc>https://stg.smartconsumer.kr/best</loc> </url>
-<url> <loc>https://stg.smartconsumer.kr/women_fashion</loc> </url>
-<url> <loc>https://stg.smartconsumer.kr/men_fashion</loc> </url>
-<url> <loc>https://stg.smartconsumer.kr/baby</loc> </url>
-<url> <loc>https://stg.smartconsumer.kr/food</loc> </url>
-<url> <loc>https://stg.smartconsumer.kr/beauty</loc> </url>
-<url> <loc>https://stg.smartconsumer.kr/accessories</loc> </url>
-<url> <loc>https://stg.smartconsumer.kr/home</loc> </url>
-<url> <loc>https://stg.smartconsumer.kr/digital</loc> </url>
-<url> <loc>https://stg.smartconsumer.kr/sports</loc> </url>
-<url> <loc>https://stg.smartconsumer.kr/ticket</loc> </url>
+<url> <loc>https://stg.smartconsumer.kr/travel_domestic</loc> </url>
+<url> <loc>https://stg.smartconsumer.kr/travel_international</loc> </url>
 </urlset>

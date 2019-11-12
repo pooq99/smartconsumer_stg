@@ -1,6 +1,6 @@
 {
   "short_name": "스마트컨슈머",
-  "name": "스마트컨슈머 - 인공지능 최저가 쇼핑",
+  "name": "떠나볼까 - 스마트컨슈머",
   "icons": [{
     "src": "./icon/favicon-128.png",
     "sizes": "128x128",
@@ -28,6 +28,6 @@
   }],
   "start_url": "./index.html",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#AEC3DC",
+  "background_color": "#FFFFFF"
 }
